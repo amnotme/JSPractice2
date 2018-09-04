@@ -15,8 +15,14 @@ git clone https://github.com/amnotme/JSPractice2.git &&
 cd JSPractice2 &&
 open index.html
 ```
-![Not Responsive](assets/Regular_1.png); ![Responsive](assets/Responsive_1.png);
+## Site **without** responsive design
+
+![Not Responsive](assets/Regular_1.png);
+
+## Site **with** responsive design
+
+![Responsive](assets/Responsive_1.png);
+
+## Media queries in action
 
 ![Media Queries](assets/Media_Query_1.png);
-
-
