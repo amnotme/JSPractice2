@@ -5,7 +5,7 @@
 The purpose of this site is to use proper Responsive Design to make it
 resizable and efficient.
 
-### Launching this site
+### Launching this project
 ```
 cd ~/Desktop &&
 git clone https://github.com/amnotme/JSPractice2.git &&
